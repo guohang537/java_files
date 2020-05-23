@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Pro</OriginalElement>
+  <nodes>
+    <node x="0.0" y="194.0">Pro.count</node>
+    <node x="65.85" y="342.0">Pro.Test</node>
+    <node x="60.599999999999994" y="0.0">Pro.Car</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="144.5" y="198.5" />
+  <SelectedNodes>
+    <node>Pro.Test</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>public</VISIBILITY>
+</Diagram>
+
