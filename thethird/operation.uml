@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>thethird.operation</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">java.lang.FunctionalInterface</node>
+    <node x="2.0" y="208.0">thethird.operation</node>
+    <node x="44.0" y="103.0">java.lang.Runnable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="thethird.operation" target="java.lang.Runnable">
+      <point x="0.0" y="-105.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-27.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="100.0" y="209.0" />
+  <SelectedNodes>
+    <node>java.lang.FunctionalInterface</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
