@@ -2,12 +2,13 @@ package thethird;
 
 
 class library {
-    // 初始化总数为1
+    /** 初始化总数为1*/
     private int sum = 1;
+    private int max = 3;
 
-    // 设置锁, 一个对象操作一次
+    /** 设置锁, 一个对象操作一次*/
     public synchronized void add() {
-        if (sum < 3) {
+        if (sum < max) {
             sum++;
             System.out.println("还书完成,现在还有" + sum + "本书");
         } else {
@@ -20,7 +21,7 @@ class library {
         }
     }
 
-    // 设置锁
+    /** 设置锁*/
     public synchronized void reduce() throws InterruptedException {
         if (sum > 0) {
             sum--;

@@ -1,6 +1,9 @@
 package thethird;
 
 public class test {
+    /**
+        @author:刘国航
+     */
     public static void main(String[] args) {
         // 创建一个图书馆类
         library book = new library();
